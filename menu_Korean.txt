@@ -1,0 +1,16 @@
+1              Tteok                                   6                        
+2              Kimchi                                  7                        
+3              Gimbap                                  8                        
+4              Tteokbokki                              9                        
+5              Hobakjuk                                10                       
+6              Ramyun                                  9                        
+7              KimchiFriedRice                         10                       
+8              Bulgogi                                 9                        
+9              Jjajangmyeon                            10                       
+10             Kongguksu                               5                        
+11             Japchae                                 5                        
+12             BulgogiWithRice                         5                        
+13             Naengmyeon                              5                        
+14             Bibimbap                                5                        
+15             SundubuJjigae                           5                        
+13             KuihKoci                                0.4                      

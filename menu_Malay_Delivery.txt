@@ -1,0 +1,11 @@
+1              Nasilemak                               2                        
+2              NasiGorengKampung                       6                        
+3              NasiGorengTomyam                        6.5                      
+4              NasiGorengIkanMasin                     6.5                      
+5              NasiGorengPaprik                        7                        
+6              NasiGorengUSE                           7                        
+7              NasiGorengPattaya                       7                        
+8              NasiGorengBiasa                         5                        
+9              IkanGoreng                              3.5                      
+10             AyamGoreng                              3                        
+11             Satay                                   1.2                      

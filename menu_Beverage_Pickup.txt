@@ -1,0 +1,15 @@
+1              Espresso                                6                        
+2              HotAmericano                            7                        
+3              IcedAmericano                           8                        
+4              HotLatte                                9                        
+5              IcedLatte                               10                       
+6              HotCappucino                            9                        
+7              IcedCappucino                           10                       
+8              HotMocha                                9                        
+9              IcedMocha                               10                       
+10             AppleJuice                              5                        
+11             OrangeJuice                             5                        
+12             WatermelonJuice                         5                        
+13             CucumberJuice                           5                        
+14             PineappleJuice                          5                        
+15             CarrotJuice                             5                        

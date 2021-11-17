@@ -1,0 +1,20 @@
+1              MeeGoreng                               5                        
+2              MaggiGoreng                             5                        
+3              MaggiSoup                               4                        
+4              RotiCanai                               1.2                      
+5              RotiTelur                               2.3                      
+6              RotiCheese                              2.5                      
+7              RotiBoom                                2.2                      
+8              RotiPlanta                              2.2                      
+9              RotiSusu                                2.2                      
+10             RotiTisu                                3.2                      
+11             Tosai                                   1.2                      
+12             TehTarikAis                             2.2                      
+13             TehTarikPanas                           1.8                      
+14             MiloAis                                 2.5                      
+15             MiloPanas                               2.2                      
+16             Cincau                                  2.5                      
+17             LimauAis                                1.8                      
+18             LimauPanas                              1.5                      
+19             BandungAis                              2                        
+ 
